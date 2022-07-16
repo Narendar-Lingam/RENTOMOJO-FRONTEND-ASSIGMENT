@@ -1,8 +1,8 @@
-# Games-Arena | Cogoport Frontend Developer Hiring Challenge
+# Games-Arena | RENTOMOJO Frontend Developer Hiring Challenge
 Develop a pseudo front end application which would let the users help list and browse games developed for different platforms conveniently.
 
 ## How to run the project online
-Open the online demo [here](https://manishbisht.github.io/Games-Arena)
+Open the online demo [here] (https://github.com/Narendar-Lingam/RENTOMOJO-FRONTEND-ASSIGMENT.git)
 
 ## Features
 
@@ -25,7 +25,7 @@ The project uses [Node.js >= 6.x](https://nodejs.org/en/) and the [Create-React-
 After Node is installed in your system, follow the below steps.
 
 1. Navigate to the directory where you want to store the app.
-2. Clone the repo `git clone https://github.com/manishbisht/Games-Arena.git`
+2. Clone the repo `git clone https://github.com/Narendar-Lingam/RENTOMOJO-FRONTEND-ASSIGMENT.git
 3. Now install all modules listed as dependencies in `package.json` by running the command `npm install`
 4. Launch the app with this command `npm start`
 
@@ -37,20 +37,24 @@ A new browser window open automatically displaying the app.  If it doesn't, navi
 
 1. Build the production ready optimised code. `npm run build`
 2. Deploy it to `gh-pages` branch by `npm run deploy`
-3. Check the online demo [here](https://manishbisht.github.io/Games-Arena)
+3. Check the online demo [here] (https://github.com/Narendar-Lingam/RENTOMOJO-FRONTEND-ASSIGMENT.git)
 
 ## Screenshots
-Project Home Page
-![HomePage](screenshots/1.png)
+Project Home Page ![1](https://user-images.githubusercontent.com/85240755/179367933-4389907d-f1d7-4133-9118-6d42458d9310.png)
+
+![HomePage]
 
 Search Feature
-![Search](screenshots/2.png)
+![Search]![1](https://user-images.githubusercontent.com/85240755/179367935-ff781288-7849-472b-b5eb-a8a09dcaa4ff.png)
+
 
 Sort by score (Low to high)
-![Sort by score (Low to high)](screenshots/3.png)
+![Sort by score (Low to high)] ![4](https://user-images.githubusercontent.com/85240755/179367941-4744bc78-5a78-4992-94ab-84071aab2c9a.png)
+
 
 Sort by score (high to low)
-![Sort by score (high to low)](screenshots/4.png)
+![Sort by score (high to low)] ![3](https://user-images.githubusercontent.com/85240755/179367950-a4c5dee1-2138-4fbc-8b1e-b2acef1dded3.png)
+
 
 Suggestions
 ![Suggestions](screenshots/5.png)
