@@ -57,9 +57,9 @@ Sort by score (high to low)
 
 
 Suggestions
-![Suggestions](screenshots/5.png)
+![Suggestions]
 
-My website manishbisht.me is https only so click on load the unsafe scripts while checking the demo as the GAMES API is HTTP only.
+My website NARENDAR.me is https only so click on load the unsafe scripts while checking the demo as the GAMES API is HTTP only.
 
-![Error0](screenshots/6.png)
-![Error1](screenshots/7.png)
+![Error0]
+![Error1]
