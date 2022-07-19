@@ -63,3 +63,7 @@ My website NARENDAR.me is https only so click on load the unsafe scripts while c
 
 ![Error0]
 ![Error1]
+
+RESUME
+https://drive.google.com/file/d/1WVRGxxejdcAU8pIaOX3Pmq-wl5Kblv9o/view?usp=sharing
+
